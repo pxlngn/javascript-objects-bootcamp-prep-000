@@ -8,6 +8,6 @@ var playlist = {
   }
   
   function removeFromPlaylist(obj, artistName) {
-    delete obj[]
+    delete obj[artistName]
     return obj
   }
