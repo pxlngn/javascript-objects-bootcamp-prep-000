@@ -1,5 +1,5 @@
 var playlist = {
-  'artistName': songTitle
+  'Michael Jackson': 'Man in the Mirror'
 }
   
   function updatePlaylist(obj,key,value) {
